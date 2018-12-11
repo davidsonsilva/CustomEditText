@@ -4,7 +4,7 @@
 
 ###### After you create a custom view, you can add it to different layouts in the same way you would add a TextView or Button. This lesson shows you how to create and use custom views based on View subclasses.
 
-## What you should already KNOW**
+## What you should already KNOW
 
 You should be able to:
 
